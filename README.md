@@ -1,3 +1,5 @@
 # singlePageApp
 myinfo
-it is my personal information
+it is my personal informat
+
+
